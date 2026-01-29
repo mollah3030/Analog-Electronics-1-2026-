@@ -1,6 +1,6 @@
 # Assignment 2.1 – Semiconductor Basics (Conceptual Understanding)
 
-**Student:** Mohiuddin  
+**Student:** Md  Mohiuddin  Mollah
 **Course:** Analog Electronics 1  
 **Tools:** Calculator, VS Code, GitHub
 
