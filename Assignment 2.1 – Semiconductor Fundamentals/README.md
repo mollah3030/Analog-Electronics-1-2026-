@@ -1,13 +1,16 @@
-# Analog Electronics 1 – Assignment 2.1: Semiconductor Fundamentals (Conceptual Understanding)
+# Assignment 2.1 – Semiconductor Basics (Conceptual Understanding)
 
-**Student:** Mohiuddin  
-**Tools:** VS Code, GitHub Desktop  
+**Student:** Md  Mohiuddin  Mollah
+**Course:** Analog Electronics 1  
+**Tools:** Calculator, VS Code, GitHub
 
 ## Contents
-- `answers.md` → Questions 1–3 (written answers)
-- `calculations.md` → Question 4 calculations
-- Screenshots/PDF (if needed)
+- Written answers (Q1–Q3): `answers.md`
+- Calculations (Q4): `calculations.md`
+- Reflection (learning + difficulty)
 
 ## Reflection
-- **What I learned:**  
-- **Main difficulty:**  
+In this assignment, I understood the core ideas of semiconductors and how electrons and holes influence conductivity.  
+The hardest part for me was using the diode equations correctly and keeping all the units consistent.  
+Overall, this work helped me link the theory with the numerical calculations in a clearer way.
+
