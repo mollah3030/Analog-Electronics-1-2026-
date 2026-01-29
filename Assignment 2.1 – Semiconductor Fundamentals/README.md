@@ -1,13 +1,16 @@
-# Analog Electronics 1 – Assignment 2.1: Semiconductor Fundamentals (Conceptual Understanding)
+# Assignment 2.1 – Semiconductor Basics
 
 **Student:** Mohiuddin  
-**Tools:** VS Code, GitHub Desktop  
+**Course:** Analog Electronics 1
 
-## Contents
-- `answers.md` → Questions 1–3 (written answers)
-- `calculations.md` → Question 4 calculations
-- Screenshots/PDF (if needed)
+## Folder contents
+- `README.md`
+- `answers.md` (Q1–Q3)
+- `calculations.md` (Q4)
 
-## Reflection
-- **What I learned:**  
-- **Main difficulty:**  
+## What I did
+- Wrote answers for Q1–Q3 in my own words
+- Calculated thermal voltage at 25°C (Q4a)
+- Calculated diode current using diode equation (Q4b)
+- Added a short reflection (learning + difficulty)
+
