@@ -1,36 +1,71 @@
-# Calculations (Question 4)
+# Calculations – Question 4
 
-## Q4a) Thermal voltage at 25°C
-Given:
-- T = 25°C = 298 K
-- k = 1.38 × 10^-23 J/K
-- q = 1.6 × 10^-19 C
+## Question 4(a)  
+**Determine the thermal voltage for a diode at a temperature of 25°C.**
 
-Formula:
-V_T = kT / q
+**Given:**  
+- Temperature, \(T_C = 25^\circ C\)  
+- Boltzmann constant, \(k = 1.38 \times 10^{-23}\ \text{J/K}\)  
+- Electron charge, \(q = 1.6 \times 10^{-19}\ \text{C}\)
 
-Calculation:
-V_T = (1.38×10^-23 × 298) / (1.6×10^-19)
-V_T ≈ 0.0257 V (≈ 25.7 mV)
+**Formula:**  
+\[
+V_T = \frac{kT}{q}
+\]
+\[
+T_K = T_C + 273
+\]
 
-## Q4b) Diode current using I_D equation
-Given:
-- I_S = 40 nA = 40×10^-9 A
-- n = 2
-- V_D = 0.5 V
-- V_T = 0.0257 V
+**Step-by-step:**  
+\[
+T_K = 25 + 273 = 298\ \text{K}
+\]
+\[
+V_T = \frac{(1.38 \times 10^{-23})(298)}{1.6 \times 10^{-19}}
+\]
+\[
+V_T \approx 0.0257\ \text{V}
+\]
 
-Formula:
-I_D = I_S ( e^(V_D/(nV_T)) − 1 )
+**Final Answer:**  
+\[
+V_T \approx 25.7\ \text{mV}
+\]
 
-Compute exponent:
-V_D/(nV_T) = 0.5 / (2×0.0257) = 0.5 / 0.0514 ≈ 9.73
+---
 
-So:
-I_D = 40×10^-9 ( e^9.73 − 1 )
+## Question 4(b)  
+**For the same diode, find the diode current using the diode equation.**
 
-e^9.73 ≈ 1.68×10^4
+**Given:**  
+- \(I_S = 40\ \text{nA} = 40 \times 10^{-9}\ \text{A}\)  
+- \(n = 2\)  
+- \(V_T = 0.0257\ \text{V}\)  
+- \(V_D = 0.5\ \text{V}\)
 
-I_D ≈ 40×10^-9 × 1.68×10^4
-I_D ≈ 6.72×10^-4 A
-I_D ≈ 0.672 mA
+**Formula:**  
+\[
+I_D = I_S\left(e^{\frac{V_D}{nV_T}} - 1\right)
+\]
+
+**Step-by-step:**  
+\[
+\frac{V_D}{nV_T} = \frac{0.5}{2 \times 0.0257} \approx 9.73
+\]
+\[
+I_D = 40 \times 10^{-9}\left(e^{9.73} - 1\right)
+\]
+\[
+e^{9.73} \approx 1.68 \times 10^{4}
+\]
+\[
+I_D \approx 40 \times 10^{-9} \times 1.68 \times 10^{4}
+\]
+\[
+I_D \approx 6.7 \times 10^{-4}\ \text{A} = 0.00067\ \text{A}
+\]
+
+**Final Answer:**  
+\[
+I_D \approx 0.67\ \text{mA}
+\]
