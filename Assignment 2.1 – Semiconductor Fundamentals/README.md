@@ -1,16 +1,16 @@
-# Assignment 2.1 – Semiconductor Basics
+# Assignment 2.1 – Semiconductor Basics (Conceptual Understanding)
 
-**Student:** Md Mohiuddin  Mollah
-**Course:** Analog Electronics 1
+**Student:** Mohiuddin  
+**Course:** Analog Electronics 1  
+**Tools:** Calculator, VS Code, GitHub
 
-## Folder contents
-- `README.md`
-- `answers.md` (Q1–Q3)
-- `calculations.md` (Q4)
+## Contents
+- Written answers (Q1–Q3): `answers.md`
+- Calculations (Q4): `calculations.md`
+- Reflection (learning + difficulty)
 
-## What I did
-- Wrote answers for Q1–Q3 in my own words
-- Calculated thermal voltage at 25°C (Q4a)
-- Calculated diode current using diode equation (Q4b)
-- Added a short reflection (learning + difficulty)
+## Reflection
+In this assignment, I understood the core ideas of semiconductors and how electrons and holes influence conductivity.  
+The hardest part for me was using the diode equations correctly and keeping all the units consistent.  
+Overall, this work helped me link the theory with the numerical calculations in a clearer way.
 
