@@ -1,6 +1,6 @@
 # Assignment 2.1 – Semiconductor Basics
 
-**Student:** Mohiuddin  
+**Student:** Md Mohiuddin  Mollah
 **Course:** Analog Electronics 1
 
 ## Folder contents
