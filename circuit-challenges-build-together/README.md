@@ -6,8 +6,8 @@
 
 ## Assignment Overview
 This repository contains my work for the Circuit Challenges from the slides.  
-The task is to complete the circuits, upload images, and explain what was done in each build.  
-To show that I completed the work myself, I also include photos where my name is written on paper next to the circuit.
+The task is to complete the circuits, explain what was done in each build, and later upload the related images.  
+The proof images with my name written on paper will also be added after the circuit completion.
 
 ---
 
@@ -16,8 +16,8 @@ This repository includes:
 
 - component lists for the required circuits
 - short explanations of what was done
-- circuit images
-- proof images showing my name written on paper next to the circuit
+- placeholder notes for circuit images
+- placeholder notes for proof images
 
 ---
 
@@ -42,8 +42,7 @@ In Build Together 2, I assembled the circuit on a breadboard using the listed co
 The circuit uses an LDR, op-amp, transistor, diode, and LED to demonstrate light-based circuit operation.
 
 ## Images
-- Circuit image: `images/build_together_2.jpg`
-- Proof image with my name: `images/build_together_2_proof.jpg`
+Images will be uploaded after circuit completion.
 
 ---
 
@@ -73,8 +72,7 @@ In Build Together 3, I built the microphone-based light show circuit using the L
 The microphone input is amplified, filtered, and used to control the LEDs based on sound level.
 
 ## Images
-- Circuit image: `images/build_together_3.jpg`
-- Proof image with my name: `images/build_together_3_proof.jpg`
+Images will be uploaded after circuit completion.
 
 ---
 
@@ -112,14 +110,13 @@ In Build Together 4, I assembled a volume meter circuit using a microphone, ampl
 The microphone signal is amplified first, and then the comparators drive three LEDs to indicate different sound levels.
 
 ## Images
-- Circuit image: `images/build_together_4.jpg`
-- Proof image with my name: `images/build_together_4_proof.jpg`
+Images will be uploaded after circuit completion.
 
 ---
 
 ## Notes
 For each circuit, I used the component list from the slides and connected the parts on a breadboard.  
-I added actual photos of the circuits and included proof photos with my name written on paper as required.
+The real circuit images and proof images will be added later after the builds are completed.
 
 ---
 
