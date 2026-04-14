@@ -1,4 +1,4 @@
-# Circuit Challenges – Build Together 2, 3, and 4
+# Circuit Challenges 
 
 ## Student Information
 - **Name:** Md Mohiuddin Mollah
